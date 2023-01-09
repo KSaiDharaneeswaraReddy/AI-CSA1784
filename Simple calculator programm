@@ -27,3 +27,48 @@ elif choice == 'd':
     print(num_1,"/",num_2,"=",divide(num_1,num_2))
 else:
     print("This is an invalid input")
+
+OUTPUT:
+
+Please select the operation:
+a.add
+b.subtract
+c.multiply
+d.divide
+Please enter choice(a/b/c/d):a
+Please enter the first number:10
+Please enter the second number:20
+10 + 20 = 30
+
+================= RESTART: C:/Users/vsid8/simple calculator.py =================
+Please select the operation:
+a.add
+b.subtract
+c.multiply
+d.divide
+Please enter choice(a/b/c/d):b
+Please enter the first number:30
+Please enter the second number:20
+30 - 20 = 10
+
+================= RESTART: C:/Users/vsid8/simple calculator.py =================
+Please select the operation:
+a.add
+b.subtract
+c.multiply
+d.divide
+Please enter choice(a/b/c/d):c
+Please enter the first number:10
+Please enter the second number:5
+10 * 5 = 50
+
+================= RESTART: C:/Users/vsid8/simple calculator.py =================
+Please select the operation:
+a.add
+b.subtract
+c.multiply
+d.divide
+Please enter choice(a/b/c/d):d
+Please enter the first number:10
+Please enter the second number:2
+10 / 2 = 5.0
